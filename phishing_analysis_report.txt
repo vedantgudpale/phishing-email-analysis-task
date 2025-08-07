@@ -1,0 +1,17 @@
+# Analysis Report on Phishing Emails
+
+## Phishing Indicators Found:
+
+
+The sender email `support@secure-paypal.com` is not from the official PayPal domain.
+2. **Fake URL** – The link takes users to the phishing website `http://paypal.accountverify-secure.com`.
+The email employs fear tactics by stating, "Failure to comply within 24 hours."
+The file `security-update.zip` may contain malware.
+5. **No Personalization** - "Dear Customer" is used in place of the recipient's actual name.
+6. **Bad Branding** – No PayPal signature or logo is used.
+7. **Spelling & Grammar** – Minor irregularities in structure and tone.
+**Header Analysis** (i.e., "Analyzed using MxToolbox, results showed non-legit SPF/DKIM")
+
+## Summary:
+
+With its spoof email, malicious links, attachments, and urgent language, this email is obviously a phishing attempt.

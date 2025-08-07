@@ -1,0 +1,21 @@
+Subject: Notice of Account Suspension [Action Required]
+
+From: secure-paypal.com/support  
+To: yourname@gmail.com  
+
+Date: August 4, 2025, Monday, 14:32:10 +0530  
+
+Body:
+Greetings, Client  
+
+Unusual activity was observed on your PayPal account. Please verify your information right away by clicking the link below to prevent service interruptions:  
+
+[Check Now](http://paypal.accountverify-secure.com)  
+
+Your account will be permanently suspended if you don't comply within 24 hours.  
+
+We appreciate you selecting PayPal.  
+
+The PayPal Group
+
+Security-update.zip is attached. 
